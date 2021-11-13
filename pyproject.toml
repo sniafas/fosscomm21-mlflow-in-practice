@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "fosscomm21-workshop-mlflow"
+version = "0.1"
+description = ""
+authors = ["Stavros Niafas"]
+license = "GNU GPL v3"
+
+[tool.poetry.dependencies]
+jupyterlab = "*"
+scikit-learn = "*"
+matplotlib = "^3.3.3"
+numpy = "*"
+pandas = "*"
+python = "^3.8.7"
+tensorflow = "2.4"
+mlflow = "1.19"
